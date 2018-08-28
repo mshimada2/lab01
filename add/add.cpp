@@ -19,5 +19,7 @@ int main()
 
   cout<<value1<<" + "<<value2<<" = "<<answer<<endl;
 
+  return 0;
+
 }
 
