@@ -11,7 +11,6 @@ int main()
   int value2;
   int answer;
 
-  cout<<"Please enter two numbers to add together. "<<endl;
   cin>>value1;
   cin>>value2;
 
